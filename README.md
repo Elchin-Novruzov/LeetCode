@@ -2,3 +2,4 @@
 ### My profile: [Elchin Novruzov](https://leetcode.com/Elchin_Novruzov/)
 #### Solitions:
 [141. Linked List Cycle](https://github.com/Elchin-Novruzov/LeetCode/blob/main/141-Linked-List-Cycle.js)
+[21. Merge Two Sorted Lists](https://github.com/Elchin-Novruzov/LeetCode/blob/main/21.%20Merge%20Two%20Sorted%20Lists.js)
