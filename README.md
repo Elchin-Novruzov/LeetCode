@@ -2,6 +2,7 @@
 ### My profile: [Elchin Novruzov](https://leetcode.com/Elchin_Novruzov/)
 #### Solitions:
 
+[14. Longest Common Prefix](https://github.com/Elchin-Novruzov/LeetCode/blob/main/14.%20Longest%20Common%20Prefix.js) </br>
 [21. Merge Two Sorted Lists](https://github.com/Elchin-Novruzov/LeetCode/blob/main/21.%20Merge%20Two%20Sorted%20Lists.js) </br>
 [125. Valid Palindrome.js](https://github.com/Elchin-Novruzov/LeetCode/blob/main/125.%20Valid%20Palindrome.js) </br>
 [141. Linked List Cycle](https://github.com/Elchin-Novruzov/LeetCode/blob/main/141.%20Linked%20List%20Cycle.js) </br>
